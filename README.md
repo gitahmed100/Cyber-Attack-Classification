@@ -1,4 +1,4 @@
-# 🧠 Final Project – Machine Learning Phase 2: Cyber Attack Classification
+# 🧠 Final Project – Machine Learning: Cyber Attack Classification
 
 This project builds a full ML pipeline to detect and classify various types of network traffic, including cyberattacks such as DDoS, Mirai, Recon, and more.
 
