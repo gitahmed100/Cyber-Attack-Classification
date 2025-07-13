@@ -43,7 +43,7 @@ Feature selection was done using SelectKBest.
 
 SMOTE used to handle class imbalance.
 
-Final submission uses predictions from the Random Forest model (can be switched).
+Final submission uses predictions from the XGB boost model (can be switched).
 
 Author: Ahmed Niazy Mahdy
 University: Zewail City – Computer Science & AI
